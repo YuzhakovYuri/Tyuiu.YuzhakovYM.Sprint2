@@ -19,6 +19,7 @@ namespace Tyuiu.YuzhakovYM.Sprint2.Task0.V9.Test
             bool[] wait = new bool[6] { true, true, true, true, true, false };
 
             CollectionAssert.AreEqual(wait, res);
+
         }
     }
 }

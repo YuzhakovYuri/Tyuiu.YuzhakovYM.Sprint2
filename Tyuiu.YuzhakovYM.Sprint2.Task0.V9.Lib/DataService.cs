@@ -14,6 +14,7 @@ namespace Tyuiu.YuzhakovYM.Sprint2.Task0.V9.Lib
         {
             bool[] res = { y + 679 == x, x != y, y < x, x > y, y <= x, y >= x };
             return res;
+
         }
     }
 }

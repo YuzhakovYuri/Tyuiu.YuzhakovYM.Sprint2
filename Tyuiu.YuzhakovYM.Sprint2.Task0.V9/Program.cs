@@ -19,7 +19,6 @@ namespace Tyuiu.YuzhakovYM.Sprint2.Task0.V9
             res = ds.GetCompareOperations(x, y);
 
             Console.Title = "Спринт #2 | Выполнил: Южаков Ю. М. | АСОиУб-23-3";
-
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #2                                                               *");
             Console.WriteLine("* Тема: Операции сравнения                                                *");
